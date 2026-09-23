@@ -1,3 +1,3 @@
-# kov08.github.io
+# kvansia.github.io
 
-Personal portfolio of Krushnarajsinh (Krushn) Vansia → **https://kov08.github.io**
+Personal portfolio of Krushnarajsinh (Krushn) Vansia → **https://kvansia.github.io**

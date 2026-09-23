@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          repository: kov08/portfolio-src
+          repository: kvansia/portfolio-src
           ssh-key: ${{ secrets.SOURCE_DEPLOY_KEY }}
           persist-credentials: false
       - run: python3 -m json.tool site/content.json > /dev/null
